@@ -11,7 +11,7 @@ public class newClass {
         car1.setSpeed(45);
        // car1.HOT_HJ = 25;
 
-        car2.setColor("black");
+        car2.setColor("blac");
         car2.setMarka("opell");
         car2.setSpeed(56);
        // car2.HOT_HJ = 27;
