@@ -16,10 +16,10 @@ public class newClass {
         car2.setSpeed(56);
        // car2.HOT_HJ = 27;
 
-        System.out.println(car2.retur());
+        System.out.println(car2);
         System.out.println(Car.HOT_HJ);
 
-        System.out.println(car1.toString());
+        System.out.println(car1);
         System.out.println(car2);
 
 
